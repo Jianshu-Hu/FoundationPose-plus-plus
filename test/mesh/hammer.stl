@@ -1,0 +1,170 @@
+solid simtoolreal_object
+  facet normal 0 0 -1
+    outer loop
+      vertex -116.192 -17.1459592 -12.4514803
+      vertex 116.192 17.1459592 -12.4514803
+      vertex 116.192 -17.1459592 -12.4514803
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -116.192 -17.1459592 -12.4514803
+      vertex -116.192 17.1459592 -12.4514803
+      vertex 116.192 17.1459592 -12.4514803
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex -116.192 -17.1459592 12.4514803
+      vertex 116.192 -17.1459592 12.4514803
+      vertex 116.192 17.1459592 12.4514803
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex -116.192 -17.1459592 12.4514803
+      vertex 116.192 17.1459592 12.4514803
+      vertex -116.192 17.1459592 12.4514803
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -116.192 -17.1459592 -12.4514803
+      vertex 116.192 -17.1459592 -12.4514803
+      vertex 116.192 -17.1459592 12.4514803
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -116.192 -17.1459592 -12.4514803
+      vertex 116.192 -17.1459592 12.4514803
+      vertex -116.192 -17.1459592 12.4514803
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 116.192 -17.1459592 -12.4514803
+      vertex 116.192 17.1459592 -12.4514803
+      vertex 116.192 17.1459592 12.4514803
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 116.192 -17.1459592 -12.4514803
+      vertex 116.192 17.1459592 12.4514803
+      vertex 116.192 -17.1459592 12.4514803
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 116.192 17.1459592 -12.4514803
+      vertex -116.192 17.1459592 -12.4514803
+      vertex -116.192 17.1459592 12.4514803
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 116.192 17.1459592 -12.4514803
+      vertex -116.192 17.1459592 12.4514803
+      vertex 116.192 17.1459592 12.4514803
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -116.192 17.1459592 -12.4514803
+      vertex -116.192 -17.1459592 -12.4514803
+      vertex -116.192 -17.1459592 12.4514803
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -116.192 17.1459592 -12.4514803
+      vertex -116.192 -17.1459592 12.4514803
+      vertex -116.192 17.1459592 12.4514803
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 116.192 -32.3272263 -17.4094421
+      vertex 143.572841 32.3272263 -17.4094421
+      vertex 143.572841 -32.3272263 -17.4094421
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 116.192 -32.3272263 -17.4094421
+      vertex 116.192 32.3272263 -17.4094421
+      vertex 143.572841 32.3272263 -17.4094421
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 116.192 -32.3272263 17.4094421
+      vertex 143.572841 -32.3272263 17.4094421
+      vertex 143.572841 32.3272263 17.4094421
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 116.192 -32.3272263 17.4094421
+      vertex 143.572841 32.3272263 17.4094421
+      vertex 116.192 32.3272263 17.4094421
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 116.192 -32.3272263 -17.4094421
+      vertex 143.572841 -32.3272263 -17.4094421
+      vertex 143.572841 -32.3272263 17.4094421
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 116.192 -32.3272263 -17.4094421
+      vertex 143.572841 -32.3272263 17.4094421
+      vertex 116.192 -32.3272263 17.4094421
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 143.572841 -32.3272263 -17.4094421
+      vertex 143.572841 32.3272263 -17.4094421
+      vertex 143.572841 32.3272263 17.4094421
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 143.572841 -32.3272263 -17.4094421
+      vertex 143.572841 32.3272263 17.4094421
+      vertex 143.572841 -32.3272263 17.4094421
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 143.572841 32.3272263 -17.4094421
+      vertex 116.192 32.3272263 -17.4094421
+      vertex 116.192 32.3272263 17.4094421
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 143.572841 32.3272263 -17.4094421
+      vertex 116.192 32.3272263 17.4094421
+      vertex 143.572841 32.3272263 17.4094421
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 116.192 32.3272263 -17.4094421
+      vertex 116.192 -32.3272263 -17.4094421
+      vertex 116.192 -32.3272263 17.4094421
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 116.192 32.3272263 -17.4094421
+      vertex 116.192 -32.3272263 17.4094421
+      vertex 116.192 32.3272263 17.4094421
+    endloop
+  endfacet
+endsolid simtoolreal_object
